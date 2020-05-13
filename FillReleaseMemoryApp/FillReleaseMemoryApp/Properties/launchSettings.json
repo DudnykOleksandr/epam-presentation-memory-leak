@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FillReleaseMemoryApp": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+version: '3.4'
+
+services:
+  fillreleasememoryapp:
+    image: fillreleasememoryapp:dev
+    container_name: FillReleaseMemoryApp
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "FillReleaseMemoryApp"
+    #environment:
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_fillreleasememoryapp$
+    volumes:
+      - D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp:/app
+      - C:\Users\Oleksandr_Dudnyk\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_fillreleasememoryapp$
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_fillreleasememoryapp$ \"/app/bin/Debug/netcoreapp3.1/FillReleaseMemoryApp.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

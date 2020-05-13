@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fillreleasememoryapp:
+    image: ${DOCKER_REGISTRY-}fillreleasememoryapp
+    build:
+      context: .
+      dockerfile: FillReleaseMemoryApp/Dockerfile

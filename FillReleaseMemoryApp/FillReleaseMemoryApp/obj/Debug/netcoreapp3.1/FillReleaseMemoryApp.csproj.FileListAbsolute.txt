@@ -1,0 +1,13 @@
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\bin\Debug\netcoreapp3.1\FillReleaseMemoryApp.exe
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\obj\Debug\netcoreapp3.1\FillReleaseMemoryApp.csprojAssemblyReference.cache
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\obj\Debug\netcoreapp3.1\FillReleaseMemoryApp.AssemblyInfoInputs.cache
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\obj\Debug\netcoreapp3.1\FillReleaseMemoryApp.AssemblyInfo.cs
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\bin\Debug\netcoreapp3.1\FillReleaseMemoryApp.deps.json
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\bin\Debug\netcoreapp3.1\FillReleaseMemoryApp.runtimeconfig.json
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\bin\Debug\netcoreapp3.1\FillReleaseMemoryApp.runtimeconfig.dev.json
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\bin\Debug\netcoreapp3.1\FillReleaseMemoryApp.dll
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\bin\Debug\netcoreapp3.1\FillReleaseMemoryApp.pdb
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\obj\Debug\netcoreapp3.1\FillReleaseMemoryApp.csproj.CoreCompileInputs.cache
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\obj\Debug\netcoreapp3.1\FillReleaseMemoryApp.dll
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\obj\Debug\netcoreapp3.1\FillReleaseMemoryApp.pdb
+D:\Projects\Community\MemoryLeak\FillReleaseMemoryApp\FillReleaseMemoryApp\obj\Debug\netcoreapp3.1\FillReleaseMemoryApp.genruntimeconfig.cache
